@@ -1,5 +1,4 @@
-# realm-installer
-Realm 一键安装与配置脚本
+# Realm 一键安装与配置脚本
 
 这是一个专为 Bandwagon Host (BWG) 及其他 Linux VPS 设计的 Realm 一键管理脚本。它可以帮助你快速搭建端口转发中转服务。
 
@@ -19,10 +18,7 @@ Realm 一键安装与配置脚本
 
 复制以下命令到你的 VPS 终端运行：
 
-bash <(curl -Ls [https://raw.githubusercontent.com/你的GitHub用户名/你的仓库名/main/install.sh](https://raw.githubusercontent.com/你的GitHub用户名/你的仓库名/main/install.sh))
-
-
-(请将上面的 URL 替换为你实际的 GitHub 文件 Raw 链接)
+bash <(curl -Ls [https://raw.githubusercontent.com/你的GitHub用户名/你的仓库名/main/install.sh](https://raw.githubusercontent.com/playfulsoul/realm-installer/main/install.sh))
 
 2. 脚本菜单
 

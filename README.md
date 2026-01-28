@@ -17,7 +17,7 @@
 登录你的 VPS，运行以下命令即可：
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/playfulsoul/realm-installer/refs/heads/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/playfulsoul/realm-installer/main/install.sh)
 ```
 
 ### 2. 快捷菜单

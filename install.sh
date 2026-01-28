@@ -17,7 +17,7 @@ PLAIN='\033[0m'
 [[ $EUID -ne 0 ]] && echo -e "${RED}错误: 必须使用 root 用户运行此脚本！${PLAIN}" && exit 1
 
 # 脚本的 Raw 链接 (用于安装自身及更新)
-SCRIPT_URL="https://raw.githubusercontent.com/playfulsoul/realm-installer/refs/heads/main/install.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/playfulsoul/realm-installer/main/install.sh"
 
 # === 关键路径定义 ===
 # 配置文件路径

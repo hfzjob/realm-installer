@@ -18,7 +18,7 @@
 
 复制以下命令到你的 VPS 终端运行：
 
-bash <(curl -Ls [https://raw.githubusercontent.com/你的GitHub用户名/你的仓库名/main/install.sh](https://raw.githubusercontent.com/playfulsoul/realm-installer/main/install.sh))
+bash <(curl -Ls [https://raw.githubusercontent.com/playfulsoul/realm-installer/main/install.sh](https://raw.githubusercontent.com/playfulsoul/realm-installer/refs/heads/main/install.sh))
 
 2. 脚本菜单
 

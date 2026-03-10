@@ -1,6 +1,7 @@
 # Realm 一键安装与配置脚本
 
 这是一个专为 Bandwagon Host (BWG) 及其他 Linux VPS 设计的 Realm 一键管理脚本。它可以帮助你快速搭建端口转发中转服务。
+
 视频教程：https://youtu.be/gtUFnTTsiHQ
 
 ## ✨ 功能特点
